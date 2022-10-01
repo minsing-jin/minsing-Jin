@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI and app development.
+
+- 🌱 I’m currently learning classical Classical machine learning and algorithm.
+- 📫 I have and expeirence of building classical ML and develope website.
+
+
+## [MyBlog](#https://velog.io/@minsing-jin)
+
+## [Kaggle](#https://www.kaggle.com/minsingjinkinghee)
 
 <!--
 **minsing-jin/minsing-Jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
