@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI and app development.
+# Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI and app development.
 
 - 🌱 I’m currently learning classical Classical machine learning and algorithm.
 - 📫 I have and expeirence of building classical ML and develope website.
