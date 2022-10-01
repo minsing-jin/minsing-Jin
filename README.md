@@ -4,7 +4,7 @@
 - 📫 I have and expeirence of building classical ML and develope website.
 
 
-[MyBlog] (#https://velog.io/@minsing-jin)
+[MyBlog] (#https://velog.io/@minsing-jin)<br>
 [Kaggle] (#https://www.kaggle.com/minsingjinkinghee)
 
 <!--
