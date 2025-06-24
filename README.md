@@ -52,7 +52,7 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
 * `CS agent observility` – A conversational data analytics tool for customer service centers, utilizing LLMs for analysis and Looker Studio for data visualization.
 
-* `H-AVOCA PoC` - A prototype of a public opinion analyzer 'H-AVOCA' explored AI applications for large-scale research data processing in Hankuk Research Inc. LLM analyze large news data and visualize in looker studio.
+* `Markr AI Inc.`` **H-AVOCA PoC** - A prototype of a public opinion analyzer 'H-AVOCA' explored AI applications for large-scale research data processing in Hankuk Research Inc. LLM analyze large news data and visualize in looker studio.
 
 * `Markr AI Inc.` **ChatGPT-based AI Tool for Marketing Research** - Gauge the adaptability of GPT-3.5-turbo, OpenAI's flagship language model, using product review data. Focused on assessing the model's potential and limitations and optimized through fine-tuning and prompt engineering.
 
