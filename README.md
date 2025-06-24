@@ -42,22 +42,23 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ## 💼 Projects
-- `NomaDamas` RAGchain - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
-- `Markr-AI Inc.` 
+* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs. Implement Dataset Evaluators.
 
-* `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. Actively developing. Building business with it.
 * `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
-* `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
+
+
+
+
+### 🤾 Contributions
+*  **[AutoRAG][1](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1094)
+*      [2](https://github.com/Marker-Inc-Korea/AutoRAG/issues/802)**
+*  **[KICE-slayer-AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean/commit/47b310e7e1950cb89dd856f87d39398bc453d8ed)**
+
+
+
 * `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
 * `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
 * `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
-* `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
-* `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol.
-* `Whew-AI Inc.` **[Kikic](https://play.google.com/store/apps/details?id=ai.whew.kikic)** - Developed random chat app using video AI that analyze human emotions. Android front-end, ML & back-end integration to Android.
-* `Whew-AI Inc.` **[Doridori Counter](https://github.com/Whew-AI-Inc/Doridori-Counter)** - Developed automatic human head shacking detector using facial landmarks and peak detection
-* `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developed face chat which measures attractiveness score for couples
-* `Whew-AI Inc.` **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection
-* `Whew-AI Inc.` **rPPG** - Improved rPPG accracy (SOTA at UBFC-rPPG dataset)
-* `Markr Inc.`  **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
+
 
 HRC avoca
