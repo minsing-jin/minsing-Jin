@@ -74,6 +74,6 @@ leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Tes
     <li><code>Dacon</code>  <strong><a href="https://dacon.io/competitions/official/235863/leaderboard">Job Care Recommendation Algoritm Competition</a></strong> 15/728 <a href="https://github.com/PCEO-AI-CLUB/JobCare--DACON">Code</a></li>
     <li><code>Dacon</code>  <strong><a href="https://dacon.io/competitions/official/235985/leaderboard">Jeju traffic prediction Competition</a></strong> 251/712 <a href="https://github.com/minsing-jin/Dacon_Jeju">Code</a></li>
     <li><code>Kaggle </code> <strong><a href="https://www.kaggle.com/competitions/pceo-ai-club1/leaderboard">PCEO AI Club competition - exam score prediction</a></strong> 1/7</li>
-    <li><code> 2021 KHU software festival </code> <strong><a href="https://swf.khu.ac.kr/swfest_dataAnalysis_2021/114">2021 KHU software festival pet preference prediction</a></strong> junior award</li>
+    <li><code>2021 KHU software festival </code> <strong><a href="https://swf.khu.ac.kr/swfest_dataAnalysis_2021/114">2021 KHU software festival pet preference prediction</a></strong> junior award</li>
     </ul>
 </details>
