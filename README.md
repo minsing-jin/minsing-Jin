@@ -1,9 +1,9 @@
 
 Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
-[My Blog](https://velog.io/@minsing-jin)
-[My LinkedIn](https://www.linkedin.com/in/minseong-jin-8b4423288/)
-[Kaggle](https://www.kaggle.com/minsingjinkinghee)
+- [My Blog](https://velog.io/@minsing-jin)
+- [My LinkedIn](https://www.linkedin.com/in/minseong-jin-8b4423288/)
+- [Kaggle](https://www.kaggle.com/minsingjinkinghee)
 
 
 
