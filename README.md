@@ -16,6 +16,18 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
 -----------
 ## 🛠️ Tech Stack
+
+#### Project skill
+- Text mining solution
+  - text analysis automation
+  - LLM-based Opinion Mining
+- LookerStudio visualization
+- Build classical machine learning project (tabular)
+- Build opensource project from zero base
+- Techincal writing
+- Data prerpocessing using pandas
+- Fine-tuning OpenAI models
+
 #### Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -28,18 +40,6 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-
-#### Project skill
-- Text mining solution
-  - text analysis automation
-  - LLM-based Opinion Mining
-- LookerStudio visualization
-- Build classical machine learning project (tabular)
-- Build opensource project from zero base
-- Techincal writing
-- Data prerpocessing using pandas
-- Fine-tuning OpenAI models
 
 
 HRC avoca
