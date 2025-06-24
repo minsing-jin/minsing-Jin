@@ -54,11 +54,11 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
 * `H-AVOCA PoC` - A prototype of a public opinion analyzer 'H-AVOCA' explored AI applications for large-scale research data processing in Hankuk Research Inc. LLM analyze large news data and visualize in looker studio.
 
-* `ChatGPT-based AI Tool for Marketing Research` - Gauge the adaptability of GPT-3.5-turbo, OpenAI's flagship language model, using product review data. Focused on assessing the model's potential and limitations and optimized through fine-tuning and prompt engineering.
+* `Markr AI Inc.` **ChatGPT-based AI Tool for Marketing Research** - Gauge the adaptability of GPT-3.5-turbo, OpenAI's flagship language model, using product review data. Focused on assessing the model's potential and limitations and optimized through fine-tuning and prompt engineering.
 
-* `HRC classical machine learning` - Regression modeling using classical machine learning to predict structured data from a Korean media company in Hankuk Research Inc.
+* `Markr AI Inc.` **HRC classical machine learning** - Regression modeling using classical machine learning to predict structured data from a Korean media company in Hankuk Research Inc.
 
-* `Korean-SAT-LLM-Leaderboard` **[Korean-SAT-LLM-Leaderboard](https://github.com/Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md)** -
+* `Markr AI Inc.` **[Korean-SAT-LLM-Leaderboard](https://github.com/Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md)** -
 leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Test) exams, developed by the reputable KICE (Korea Institute for Curriculum and Evaluation).
 
 * `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
