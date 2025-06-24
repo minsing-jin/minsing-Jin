@@ -17,8 +17,8 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 -------
 
 ## 🛠️ Tech Stack
-![Languages](https://skillicons.dev/icons?i=python,cpp,clion,react,html,css,tailwind,git,github,linux)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### language
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
 -----------
