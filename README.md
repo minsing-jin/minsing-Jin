@@ -35,4 +35,4 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 HRC avoca
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Minsing's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/minsing-jin/github-readme-stats)
