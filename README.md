@@ -7,7 +7,8 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 - 🌱 I’m currently learning: Implementation LLM Application in general domain.
 - 📫 I have and expeirence of building classical ML and llm aplication.
 
-
+---------
+## 📒 My archives
 
 - [My Blog](https://velog.io/@minsing-jin)
 - [My LinkedIn](https://www.linkedin.com/in/minseong-jin-8b4423288/)
