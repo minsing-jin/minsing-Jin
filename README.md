@@ -17,29 +17,19 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 -------
 
 ## 🛠️ Tech Stack
-![Languages](https://skillicons.dev/icons?i=python,java,javascript,react,html,css,tailwind,git,github,linux)
+![Languages](https://skillicons.dev/icons?i=python,cpp,clion,react,html,css,tailwind,git,github,linux)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 -----------
-🤩 Skills
-RAG optimization
-RAG evaluation
-RAG data creation
-Efficient inference of AI models and LLMs
-Build python project from zero base
-Manage open source community
-Techincal writing
-<!--
-**minsing-jin/minsing-Jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- Text mining solution
+  - text analysis automation
+- LookerStudio visualization
+- Build classical machine learning project (tabular)
+- Build opensource project from zero base
+- Techincal writing
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HRC avoca
+
