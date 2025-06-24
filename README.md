@@ -17,9 +17,9 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 -------
 
 ## 🛠️ Tech Stack
-### language
+### languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
+![cpp](https://img.shields.io/badge/cpp-3776AB?style=flat&logo=python&logoColor=white)
 
 -----------
 ## 🛠️ Tech Stack
