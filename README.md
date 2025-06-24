@@ -49,20 +49,13 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
 ## 💼 Projects
 * `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs. Implement Dataset Evaluators.
-
 * `CS agent observility` – A conversational data analytics tool for customer service centers, utilizing LLMs for analysis and Looker Studio for data visualization.
-
 * `Markr AI Inc.` **H-AVOCA PoC** - A prototype of a public opinion analyzer 'H-AVOCA' explored AI applications for large-scale research data processing in Hankuk Research Inc. LLM analyze large news data and visualize in looker studio.
-
 * `Markr AI Inc.` **ChatGPT-based AI Tool for Marketing Research** - Gauge the adaptability of GPT-3.5-turbo, OpenAI's flagship language model, using product review data. Focused on assessing the model's potential and limitations and optimized through fine-tuning and prompt engineering.
-
 * `Markr AI Inc.` **HRC classical machine learning** - Regression modeling using classical machine learning to predict structured data from a Korean media company in Hankuk Research Inc.
-
 * `Markr AI Inc.` **[Korean-SAT-LLM-Leaderboard](https://github.com/Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md)** -
 leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Test) exams, developed by the reputable KICE (Korea Institute for Curriculum and Evaluation).
-
 * `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
-
 * `Rice-Bobb` **[SongSuro](https://github.com/RiceBobb/ClueHunter-Perplexity)** - AI project to swap the lyrics from the original song. It keeps the song style, pitch, rhythm, and melody unchanged, but only the lyrics are swapped to your input lyrics. (🏃‍♀️ In progress)
 
 
