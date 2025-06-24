@@ -50,9 +50,7 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
 
 ## 🤾 Contributions
-*  **[AutoRAG]**
-  - [1](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1094)
-  - [2](https://github.com/Marker-Inc-Korea/AutoRAG/issues/802)**
+*  **[AutoRAG]** [1](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1094) [2](https://github.com/Marker-Inc-Korea/AutoRAG/issues/802)
 *  **[KICE-slayer-AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean/commit/47b310e7e1950cb89dd856f87d39398bc453d8ed)**
 
 
