@@ -15,6 +15,11 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
 [Kaggle](https://www.kaggle.com/minsingjinkinghee)
 
+----------
+
+
+
+
 
 -----------
 ## 🛠️ Tech Stack
@@ -23,22 +28,25 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-#### Framework
+#### AI
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 
 #### Project skill
 - Text mining solution
   - text analysis automation
+  - LLM-based Opinion Mining
 - LookerStudio visualization
 - Build classical machine learning project (tabular)
 - Build opensource project from zero base
 - Techincal writing
 - Data prerpocessing using pandas
+- Fine-tuning OpenAI models
 
 
 HRC avoca
