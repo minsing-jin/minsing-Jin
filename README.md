@@ -6,8 +6,10 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI and app develop
 - 📫 I have and expeirence of building classical ML and develope website.
 
 
-[MyBlog](https://velog.io/@minsing-jin)<br>
+[My Blog](https://velog.io/@minsing-jin)<br>
+
 [My LinkedIn](https://www.linkedin.com/in/minseong-jin-8b4423288/)<br>
+
 [Kaggle](https://www.kaggle.com/minsingjinkinghee)
 
 <!--
