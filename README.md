@@ -49,16 +49,12 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
 
 
-### 🤾 Contributions
-*  **[AutoRAG][1](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1094)
-*      [2](https://github.com/Marker-Inc-Korea/AutoRAG/issues/802)**
+## 🤾 Contributions
+*  **[AutoRAG]**
+  - [1](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1094)
+  - [2](https://github.com/Marker-Inc-Korea/AutoRAG/issues/802)**
 *  **[KICE-slayer-AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean/commit/47b310e7e1950cb89dd856f87d39398bc453d8ed)**
 
-
-
-* `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
-* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
-* `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
 
 
 HRC avoca
