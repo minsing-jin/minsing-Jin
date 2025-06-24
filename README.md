@@ -20,8 +20,7 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 ## 🛠️ Tech Stack
 ### languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![cpp](https://img.shields.io/badge/cpp-3776AB?style=flat&logo=python&logoColor=white)
-
+![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 -----------
 ## 🛠️ Tech Stack
 - Text mining solution
@@ -33,6 +32,3 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
 
 HRC avoca
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsing-jin&show_icons=true&theme=radical)
