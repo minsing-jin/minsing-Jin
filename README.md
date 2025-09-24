@@ -3,9 +3,9 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
 ## 🚀 About Me
 
-- 🍚 I am co-founder of Rice-Bobb foundation, which is non-commercial open-source foundation in AI field.
-- 🌱 I’m currently learning: Computer Science, Implementation LLM Application in various domain.
-- 📫 I have and expeirence of building AI opensource project, classical ML and llm application.
+- 🍚 I am a co-founder of Rice-Bobb foundation, which is a non-commercial open-source foundation in the AI field.
+- 🌱 I’m currently learning: Computer Science, Implementation of LLM Application in various domains.
+- 📫 I have experience in building an AI open-source project, classical ML, and LLM applications.
 
 
 #### 📒 My archives
@@ -15,7 +15,7 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 - [Kaggle](https://www.kaggle.com/minsingjinkinghee)
 
 ## 🗞️ Interest
-- LLM application in various domain
+- LLM application in various domains
 - Computer-use
 - SVS (Singing Voice Synthesis)
 - Outrageously weird topic for an Ig Nobel Prize
@@ -28,10 +28,10 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
   - large-scale text analysis automation
   - LLM-based Opinion Mining
 - LookerStudio visualization
-- Build classical machine learning project (tabular)
-- Build opensource project from zero base
-- Techincal writing
-- Unstructured data prerpocessing using pandas
+- Build a classical machine learning project (tabular)
+- Build an open-source project from scratch
+- Technical writing
+- Unstructured data preprocessing using pandas
 - Fine-tuning OpenAI models and serving them via Docker
 
 #### Language
@@ -48,9 +48,9 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ## 💼 Projects
-* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs. Implement Dataset Evaluators.
+* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build a DQA system with the power of LLMs. Implement Dataset Evaluators.
   
-* `CS agent observility` – A conversational data analytics tool for customer service centers, utilizing LLMs for analysis and Looker Studio for data visualization.
+* `CS agent observability` – A conversational data analytics tool for customer service centers, utilizing LLMs for analysis and Looker Studio for data visualization.
 
 * `Markr AI Inc.` **[H-AVOCA PoC]** - A prototype of a public opinion analyzer 'H-AVOCA' explored AI applications for large-scale research data processing in Hankuk Research Inc. LLM analyze large news data and visualize in looker studio.
 
@@ -63,7 +63,7 @@ leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Tes
 
 * `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
   
-* `Rice-Bobb` **[SongSuro](https://github.com/RiceBobb/ClueHunter-Perplexity)** - AI project to swap the lyrics from the original song. It keeps the song style, pitch, rhythm, and melody unchanged, but only the lyrics are swapped to your input lyrics. (🏃‍♀️ In progress)
+* `Rice-Bobb` **[SongSuro](https://github.com/NomaDamas/SongSuro)** - AI project to swap the lyrics from the original song. It keeps the song style, pitch, rhythm, and melody unchanged, but only the lyrics are swapped to your input lyrics. (🏃‍♀️ In progress)
 
 
 ## 🤾 Contributions
