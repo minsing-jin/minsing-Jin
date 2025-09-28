@@ -3,7 +3,7 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
 ## 🚀 About Me
 
-- 🍚 I am a co-founder of Rice-Bobb foundation, which is a non-commercial open-source foundation in the AI field.
+- 🍚 I am in Nomadamas, which is a non-commercial open-source foundation in the AI field.
 - 🌱 I’m currently learning: Computer Science, Implementation of LLM Application in various domains.
 - 📫 I have experience in building an AI open-source project, classical ML, and LLM applications.
 
