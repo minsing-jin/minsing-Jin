@@ -69,8 +69,8 @@ leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Tes
 
 ## 🤾 Contributions
 *  **[AutoRAG]**: [Modify docs](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1094), [Add model](https://github.com/Marker-Inc-Korea/AutoRAG/issues/802)
-*  **[KICE-slayer-AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean/commit/47b310e7e1950cb89dd856f87d39398bc453d8ed)**
-
+*  [facebookreasearch/hallulens](https://github.com/facebookresearch/HalluLens/pull/5)
+*  [wandb/llm-leaderboard-korean](https://github.com/wandb/llm-leaderboard-korean/tree/horangi4-dev): Add Korean hallucination benchmark.
 
 
 <details>
