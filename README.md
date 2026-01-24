@@ -17,7 +17,6 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 ## 🗞️ Interest
 - LLM application in various domains
 - Computer-use
-- SVS (Singing Voice Synthesis)
 - Outrageously weird topic for an Ig Nobel Prize
 - Reinforcement learning
 
@@ -48,22 +47,24 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ## 💼 Projects
-* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build a DQA system with the power of LLMs. Implement Dataset Evaluators.
-  
-* `CS agent observability` – A conversational data analytics tool for customer service centers, utilizing LLMs for analysis and Looker Studio for data visualization.
-
-* `Markr AI Inc.` **[H-AVOCA PoC]** - A prototype of a public opinion analyzer 'H-AVOCA' explored AI applications for large-scale research data processing in Hankuk Research Inc. LLM analyze large news data and visualize in looker studio.
-
-* `Markr AI Inc.` **[ChatGPT-based AI Tool for Marketing Research]** - Gauge the adaptability of GPT-3.5-turbo, OpenAI's flagship language model, using product review data. Focused on assessing the model's potential and limitations and optimized through fine-tuning and prompt engineering.
-
-* `Markr AI Inc.` **[HRC classical machine learning]** - Regression modeling using classical machine learning to predict structured data from a Korean media company in Hankuk Research Inc.
-
 * `Markr AI Inc.` **[Korean-SAT-LLM-Leaderboard](https://github.com/Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md)** -
 leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Test) exams, developed by the reputable KICE (Korea Institute for Curriculum and Evaluation).
 
-* `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
+* `NomaDamas` **[Horangi-leaderboard](https://wandb.ai/horangi/horangi4/reports/Horangi-W-B-Korean-LLM-Leaderboard-4--VmlldzoxNTAyNjAwMA)** - Collarborate building Horangi leaderboard with W&B. Evaluate llm hallucination in Korean and join [Korean-SAT-LLM-Leaderboard](https://github.com/Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md) to horangi leaderboard. 
+
+* `NomaDamas` **[KoHalluLens](https://github.com/NomaDamas/KoHalluLens)** - A Korean adaptation of [HalluLens](https://arxiv.org/abs/2504.17550). Includes dataset translation and modified benchmark code to evaluate llm Korean hallucination.
+
+* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build a DQA system with retrieval and LLMs. Implement Dataset Evaluators.
   
-* `Rice-Bobb` **[SongSuro](https://github.com/NomaDamas/SongSuro)** - AI project to swap the lyrics from the original song. It keeps the song style, pitch, rhythm, and melody unchanged, but only the lyrics are swapped to your input lyrics. (🏃‍♀️ In progress)
+* `Markr AI Inc.` – CS agent observability. A conversational data analytics tool for customer service centers, utilizing LLMs for analysis and Looker Studio for data visualization.
+
+* `Markr AI Inc.` **[H-AVOCA PoC]** - A prototype of a public opinion analyzer 'H-AVOCA' explored AI applications for large-scale research data processing in Hankuk Research Inc. Analyze large news data and visualize the data in looker studio to assist analysis workflow.
+
+* `Markr AI Inc.` **[GPT-based AI Tool for Marketing Research]** - Build experiment process to fine-tune openAI llm, using product review data in various domain. 
+
+* `Markr AI Inc.` **[HRC classical machine learning]** - Train Korean media statistics regression model to achieve bussiness-level performance in Hankuk Research Inc. Build classical machine learning experiment from scratch.
+
+* `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage in llm's answers automatically.
 
 
 ## 🤾 Contributions
