@@ -1,7 +1,7 @@
 
 Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 
-## 🚀 About Me -> ㄴㅈ임
+## 🚀 About Me
 
 - 🍚 I am in Nomadamas, which is a non-commercial open-source foundation in the AI field.
 - 🌱 I’m currently learning: Computer Science, Implementation of LLM Application in various domains.
