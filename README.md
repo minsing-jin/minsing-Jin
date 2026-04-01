@@ -4,7 +4,7 @@ Hi there 👋 I'm Minsing-Jin(Minseong-Jin) and interested in AI.
 ## 🚀 About Me
 
 - 🍚 I am in Nomadamas, which is a non-commercial open-source foundation in the AI field.
-- 🌱 I’m currently learning: Computer Science, Implementation of LLM Application in various domains.
+- 🌱 I’m currently learning: Computer Science, LLM action in field. 
 - 📫 I have experience in building an AI open-source project, classical ML, and LLM applications.
 
 
@@ -67,7 +67,7 @@ leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Tes
 * `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage in llm's answers automatically.
 
 ## Hakerthon
-- 2th Ralphthon host with Geoffrey Huntly
+- 2th Ralphthon host which Geoffrey Huntly participated as a judge
 
 ## 🤾 Contributions
 *  [facebookreasearch/hallulens](https://github.com/facebookresearch/HalluLens/pull/5)
