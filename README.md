@@ -66,6 +66,8 @@ leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Tes
 
 * `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage in llm's answers automatically.
 
+## Hakerthon
+- 2th Ralphthon host with Geoffrey Huntly
 
 ## 🤾 Contributions
 *  [facebookreasearch/hallulens](https://github.com/facebookresearch/HalluLens/pull/5)
