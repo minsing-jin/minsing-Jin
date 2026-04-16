@@ -73,6 +73,11 @@ leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Tes
 *  [facebookreasearch/hallulens](https://github.com/facebookresearch/HalluLens/pull/5)
 *  [wandb/llm-leaderboard-korean](https://github.com/wandb/llm-leaderboard-korean/tree/horangi4-dev): Add Korean hallucination benchmark.
 *  AutoRAG: [Modify docs](https://github.com/Marker-Inc-Korea/AutoRAG/issues/1094), [Add model](https://github.com/Marker-Inc-Korea/AutoRAG/issues/802)
+*  K-skill: [Add Korean scholarship search skill and reporting workflow
+#116](https://github.com/NomaDamas/k-skill/pull/116)
+*  Ouroboros: [fix(mcp): evaluator must not reuse max_turns=1 shared adapter (fixes #305)
+#368](https://github.com/Q00/ouroboros/pull/368)
+
 
 <details>
   <summary><b>🎀 Competitions</b></summary>
