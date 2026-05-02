@@ -76,7 +76,7 @@ leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Tes
 *  K-skill: [Add Korean scholarship search skill and reporting workflow
 #116](https://github.com/NomaDamas/k-skill/pull/116)
 *  Ouroboros: [fix(mcp): evaluator must not reuse max_turns=1 shared adapter (fixes #305)
-#368](https://github.com/Q00/ouroboros/pull/368)
+#368](https://github.com/Q00/ouroboros/pull/368), [fix(providers): surface codex stdout error events in ProviderError (#560)](https://github.com/Q00/ouroboros/pull/561)
 
 
 <details>
