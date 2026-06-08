@@ -52,6 +52,8 @@ leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Tes
 
 * `NomaDamas` **[Horangi-leaderboard](https://wandb.ai/horangi/horangi4/reports/Horangi-W-B-Korean-LLM-Leaderboard-4--VmlldzoxNTAyNjAwMA)** - Collarborate building Horangi leaderboard with W&B. Evaluate llm hallucination in Korean and join [Korean-SAT-LLM-Leaderboard](https://github.com/Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md) to horangi leaderboard. 
 
+* `NomaDamas` **[🥇 Pocketmon-Harness 1st prize hosted by Hashed](https://github.com/NomaDamas/Pocketmon-Harness.git)** - Pocketmon-self-evolving harness. Play pocketmon agent parallely and learn each other's trial and error.
+
 * `NomaDamas` **[KoHalluLens](https://github.com/NomaDamas/KoHalluLens)** - A Korean adaptation of [HalluLens](https://arxiv.org/abs/2504.17550). Includes dataset translation and modified benchmark code to evaluate llm Korean hallucination.
 
 * `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build a DQA system with retrieval and LLMs. Implement Dataset Evaluators.
