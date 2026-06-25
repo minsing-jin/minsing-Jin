@@ -69,6 +69,7 @@ leaderboard benchmarking 10 years of Korean CSAT (College Scholastic Ability Tes
 * `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage in llm's answers automatically.
 
 ## Hakerthon
+- 🥇1st place at Pocketmon Harnessthon hosted by [Hashed](https://www.hashed.com/)
 - 2th Ralphthon host which Geoffrey Huntly participated as a judge
 
 ## 🤾 Contributions
